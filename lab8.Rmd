@@ -1,6 +1,6 @@
 ---
-title: "Git Test"
-author: ""
+title: "lab8"
+author: "Irene Ha"
 date: ""
 output: 
   html_document:
